@@ -1,7 +1,7 @@
 import pandas as pd
 
 path_to_verizon_file = "C:/Users/sudharshan.acharya/Downloads/vcdb/vcdb.csv"
-path_to_verizon_file = "/home/ohmkar/Downloads/vcdb.csv"
+# path_to_verizon_file = "/home/ohmkar/Downloads/vcdb.csv"
 
 class Verizon:
     def __init__(self):
